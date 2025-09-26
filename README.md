@@ -10,12 +10,11 @@ The models are trained to classify images as **cat** or **non-cat**— includes 
 - Uses sigmoid, ReLU activations
 - Gradient descent optimization
 - Trained on "cat vs non-cat" dataset
-📂 Dataset
+  
+### Dataset
 The dataset files are included in this repository:
-
-train_catvnoncat.h5
-
-test_catvnoncat.h5
+-train_catvnoncat.h5
+-test_catvnoncat.h5
 
 ### Requirements
 - Python 3.x
